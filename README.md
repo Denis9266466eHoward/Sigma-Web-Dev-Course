@@ -32,4 +32,4 @@ Ready to start? [Click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ag
 
 ---
 
-> **Personal Note:** I'm currently on Video 45 (JavaScript DOM). Using this fork to store my own practice files and notes alongside the course material.
+> **Personal Note:** I'm currently on Video 52 (JavaScript Events). Just finished the DOM section — querySelector and classList stuff finally clicked. Using this fork to store my own practice files and notes alongside the course material.
