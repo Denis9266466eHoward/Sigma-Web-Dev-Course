@@ -1,1 +1,5 @@
 this is this
+
+// Note to self: 'this' refers to the object that is executing the current function.
+// In a method, 'this' = the object owning the method.
+// In a regular function, 'this' = global object (or undefined in strict mode).
